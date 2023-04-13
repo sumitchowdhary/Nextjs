@@ -5,9 +5,9 @@ const Product = () => {
   return (
     <div>
       <h1>Product page -------</h1>
-      <Link href="/">Go back to Home Page.......</Link>
+      <Link href="/">Go back to Home Page Now.......</Link>
     </div>
-  )
-}
+  );
+};
 
-export default Product
+export default Product;
