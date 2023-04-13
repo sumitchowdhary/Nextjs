@@ -5,7 +5,7 @@ const Product = () => {
   return (
     <div>
       <h1>Product page -------</h1>
-      <Link href="/">Go back to Home Page Now.......</Link>
+      <Link href="/">Go back to Home Page Now here.......</Link>
     </div>
   );
 };
